@@ -1,8 +1,10 @@
 [
   {
-	"main": "gh:RockinChaos/Shiru-Extensions/nyaasearch"
+    "name": "Nyaa",
+    "path": "./nyaa.js"
   },
   {
-	"main": "gh:RockinChaos/Shiru-Extensions/anisearch"
+    "name": "Sukebei",
+    "path": "./sukebei.js"
   }
 ]
